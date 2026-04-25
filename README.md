@@ -1,6 +1,15 @@
 <p align="center">
-  <h1 align="center">PracticeDSA</h1>
-  <p align="center">A learning-focused repository for practicing data structures and algorithmic problems.<br/>Work in progress — more problems will be added over time.</p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/DSA-2196F3?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</p>
+
+<h1 align="center">PracticeDSA</h1>
+
+<p align="center">
+  <b>Solve. Learn. Repeat.</b><br/>
+  A hands-on repository for practicing data structures and algorithmic problems — one problem at a time.<br/>
+  <i>Still learning. Will keep adding more as I go.</i>
 </p>
 
 ---
